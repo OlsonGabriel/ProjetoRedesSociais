@@ -34,3 +34,13 @@ main{
     background: url('../imagens/frame-motog-8-play.png') no-repeat;
 
 }
+
+#tela{
+    position: relative;
+    top: 15px;
+    left: 51px;
+    width: 208px;
+    height: 460px;
+    border-radius: 20px;
+
+}
