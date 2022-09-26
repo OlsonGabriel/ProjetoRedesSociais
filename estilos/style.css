@@ -31,16 +31,6 @@ main{
     transform: translate(-50%, -50%);
     height: 500px;
     width: 311px;
-
-}
-
-#telefone2{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    height: 500px;
-    width: 311px;
     background: url('../imagens/frame-motog-8-play.png') no-repeat;
 
 }
@@ -51,6 +41,7 @@ main{
     left: 51px;
     width: 208px;
     height: 460px;
+    border-radius: 20px;
 
 }
 
